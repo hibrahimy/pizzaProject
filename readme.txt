@@ -34,3 +34,10 @@ The application has three parts
 1. The MongoDB, which stores the data
 2. The VueJS, which presents a front-end UI
 3. The NodeAPI that acts as middleware
+
+
+
+
+
+
+
